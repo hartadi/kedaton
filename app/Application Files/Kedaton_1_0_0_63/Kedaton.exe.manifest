@@ -159,7 +159,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>WEhE6Y5hsezK1+qxAftVN7Hz+IM=</dsig:DigestValue>
+        <dsig:DigestValue>JfJtuPiv/l8tk/ReTRdn0fJtDLM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -308,15 +308,6 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>hrGrk8O6viqcn4Z5kxhTVvpoGIA=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="VKBase.dll" size="9728">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>VEIY2DeBebPzPb01GXh4ez1P8yA=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">

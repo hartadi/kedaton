@@ -14,14 +14,14 @@
     <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\Kedaton_1_0_0_63\Kedaton.exe.manifest" size="19036">
+    <dependentAssembly dependencyType="install" codebase="Application Files\Kedaton_1_0_0_63\Kedaton.exe.manifest" size="18666">
       <assemblyIdentity name="Kedaton.exe" version="1.0.0.63" publicKeyToken="0000000000000000" language="id-ID" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>uBtUQsiMtkLXh8KP/4tvLCEho2U=</dsig:DigestValue>
+        <dsig:DigestValue>+uEA1TF81zIWRomNZbNzNHku49w=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
